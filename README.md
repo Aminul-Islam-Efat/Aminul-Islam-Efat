@@ -1,24 +1,9 @@
-## Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Ethical%20Hacker%20%7C%20Security%20Researcher&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=220&section=header&text=Aminul%20Islam%20Efat&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Ethical%20Hacker%20%7C%20Security%20Researcher&descSize=18&descAlignY=65" width="100%" alt="Aminul Islam Efat - Ethical Hacker Banner"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=220&section=header&text=Aminul%20Islam%20Efat&fontSize=40&fontColor=33ff00&animation=twinkling&desc=Ethical%20Hacker%20%7C%20Security%20Researcher&descSize=18&descAlignY=65" width="100%" alt="Aminul Islam Efat - Ethical Hacker Banner"/>
+</p>
 
-
-![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=33ff00)
-![Python](https://img.shields.io/badge/Language-Python-000000?style=for-the-badge&logo=python&logoColor=33ff00)
-![Burp Suite](https://img.shields.io/badge/Tool-Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff6600)
-![Nmap](https://img.shields.io/badge/Tool-Nmap-000000?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Tool-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=167FE5)
-<!--
-**Aminul-Islam-Efat/Aminul-Islam-Efat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+  _  _         _  _             
+ | || |__ _ __| || |__ _ _ _    
+ | __ / _` / _| __ / _` | '_|   
+ |_||_\__,_\__|_||_\__,_|_|
