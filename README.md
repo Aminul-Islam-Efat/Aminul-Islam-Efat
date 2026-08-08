@@ -60,6 +60,18 @@ I am a passionate Computer Science and Engineering (CSE) student dedicated to th
   </div>
 </div>
 <h3>🌱 Currently Grinding</h3>
+
+
+
+
+
+
 <div align="lift">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=39FF14&lift=true&lift=true&width=700&lines=Advanced+Web+Exploits;Smart+Contract+Auditing;Malware+Reverse+Engineering;Mobile+App+Pentesting;Red+Team+Automation" alt="Currently Learning"/>
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aminul-Islam-Efat/Aminul-Islam-Efat/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aminul-Islam-Efat/Aminul-Islam-Efat/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aminul-Islam-Efat/Aminul-Islam-Efat/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
