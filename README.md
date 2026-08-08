@@ -23,11 +23,7 @@ I am a passionate Computer Science and Engineering (CSE) student dedicated to th
 
 ---
 
-### 🛠️ Tech Stack & Tools:
-*   **Languages:** Python, Bash, C/C++, JavaScript
-*   **OS/Environments:** Kali Linux, Parrot OS, Arch Linux, Ubuntu
-*   **Pentesting Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Gobuster, SQLmap
-*   **Areas of Interest:** Web Application Security, Network Pentesting, Scripting & Automation, CTFs
+
 
 
 
