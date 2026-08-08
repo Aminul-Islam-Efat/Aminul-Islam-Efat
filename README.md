@@ -1,5 +1,12 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Ethical%20Hacker%20%7C%20Security%20Researcher&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+
+![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=33ff00)
+![Python](https://img.shields.io/badge/Language-Python-000000?style=for-the-badge&logo=python&logoColor=33ff00)
+![Burp Suite](https://img.shields.io/badge/Tool-Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff6600)
+![Nmap](https://img.shields.io/badge/Tool-Nmap-000000?style=for-the-badge&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Tool-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=167FE5)
 <!--
 **Aminul-Islam-Efat/Aminul-Islam-Efat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
