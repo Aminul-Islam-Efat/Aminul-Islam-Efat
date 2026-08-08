@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Ethical%20Hacker%20%7C%20Security%20Researcher&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
 <!--
 **Aminul-Islam-Efat/Aminul-Islam-Efat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
