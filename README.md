@@ -1,5 +1,6 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=200&section=header&text=Ethical%20Hacker%20%7C%20Security%20Researcher&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff66&height=220&section=header&text=Aminul%20Islam%20Efat&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Ethical%20Hacker%20%7C%20Security%20Researcher&descSize=18&descAlignY=65" width="100%" alt="Aminul Islam Efat - Ethical Hacker Banner"/>
 
 
 ![Linux](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=33ff00)
